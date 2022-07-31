@@ -1,0 +1,19 @@
+name: com.srktnc.package
+displayName: Package
+description: Test Package
+repoUrl: 'https://github.com/srktnc/package-test'
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: MIT
+topics:
+  - utilities
+hunter: srktnc
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: ''
+readme: 'master:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1659256302071
